@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Abhinav Singh 👋</h1>
-<h3 align="center">Full Stack MERN Developer | UI/UX Designer | API Integrator</h3>
+<h1 align="center">Helllo , I'm Abhinav Singh 👋</h1>
+<h3 align="center">Full Stack MERN Developer | UI/UX Designer | Programmer</h3>
 
 ---
 
